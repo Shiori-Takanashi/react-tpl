@@ -1,0 +1,22 @@
+.header {
+  text-align: center;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.title {
+  font-size: 2.4em;
+  margin-bottom: 20px;
+  color: #000000;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.subtitle {
+  font-size: 1.5em;
+  margin-bottom: 20px;
+  text-align: center;
+  color: #33393f;
+  -webkit-user-select: none;
+  user-select: none;
+}

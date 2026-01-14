@@ -1,12 +1,9 @@
 import './App.css'
-import Loading from './pages/Loading'
+import Home from './pages/Home'
 
 function App() {
-
   return (
-    <>
-      <Loading />
-    </>
+    <Home />
   )
 }
 
